@@ -1,0 +1,20 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "An app designed to connect students and \"professors\", thus the name proffy. It`s being created as instructed in the Next Level Week #2 course by RocketSeat. Technologies used: HTML, CSS, JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2",
+    "sqlite-async": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
